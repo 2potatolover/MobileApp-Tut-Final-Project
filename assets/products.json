@@ -1,0 +1,100 @@
+[
+    {
+        "id": "p1",
+        "title": "Gaming Mouse",
+        "description": "A high-performance gaming mouse with customizable RGB lighting.",
+        "price": 59.99,
+        "imageUrl": "assets/images/mouse.png"
+    },
+    {
+        "id": "p2",
+        "title": "Laptop",
+        "description": "A powerful and lightweight laptop for work and play.",
+        "price": 999.99,
+        "imageUrl": "assets/images/laptop.png"
+    },
+    {
+        "id": "p3",
+        "title": "Headset",
+        "description": "A comfortable headset with high-quality audio.",
+        "price": 79.99,
+        "imageUrl": "assets/images/headset.png"
+    },
+    {
+        "id": "p4",
+        "title": "Monitor",
+        "description": "A 27-inch 4K monitor with vibrant colors.",
+        "price": 349.99,
+        "imageUrl": "assets/images/monitor.png"
+    },
+    {
+        "id": "p5",
+        "title": "Charger",
+        "description": "A fast-charging wall charger for all your devices.",
+        "price": 24.99,
+        "imageUrl": "assets/images/charger.png"
+    },
+    {
+        "id": "p6",
+        "title": "Keyboard",
+        "description": "A mechanical keyboard with customizable backlighting.",
+        "price": 129.99,
+        "imageUrl": "assets/images/keyboard.png"
+    },
+    {
+        "id": "p7",
+        "title": "Extension Cord",
+        "description": "A 10-foot extension cord with multiple outlets.",
+        "price": 19.99,
+        "imageUrl": "assets/images/extension_cord.png"
+    },
+    {
+        "id": "p8",
+        "title": "Electric Fan",
+        "description": "A quiet and powerful electric fan to keep you cool.",
+        "price": 49.99,
+        "imageUrl": "assets/images/electric_fan.png"
+    },
+    {
+        "id": "p9",
+        "title": "Battery",
+        "description": "A pack of AA batteries.",
+        "price": 9.99,
+        "imageUrl": "assets/images/battery.png"
+    },
+    {
+        "id": "p10",
+        "title": "Phone",
+        "description": "The latest smartphone with a stunning display.",
+        "price": 799.99,
+        "imageUrl": "assets/images/phone.png"
+    },
+    {
+        "id": "p11",
+        "title": "Tablet",
+        "description": "A versatile tablet for work and entertainment.",
+        "price": 499.99,
+        "imageUrl": "assets/images/tablet.png"
+    },
+    {
+        "id": "p12",
+        "title": "Drawing Tablet",
+        "description": "A professional drawing tablet for digital artists.",
+        "price": 299.99,
+        "imageUrl": "assets/images/drawing_tablet.png"
+    },
+    {
+        "id": "p13",
+        "title": "Mouse Pad",
+        "description": "A large mouse pad with a smooth surface for gaming.",
+        "price": 29.99,
+        "imageUrl": "assets/images/mouse_pad.png"
+    },
+    {
+        "id": "p14",
+        "title": "Light Strips",
+        "description": "RGB light strips to customize your setup.",
+        "price": 39.99,
+        "imageUrl": "assets/images/light_strips.png"
+    }
+]
