@@ -76,6 +76,5 @@ Here are screenshots demonstrating the flow and functionality of the application
 *(A screenshot showing a book being added to the order queue and then processed)*
 
 ![Log in](screenshots/login.png)
-![Sign up](screenshots/signup.png)
 
  
